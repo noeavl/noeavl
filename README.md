@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello, world!
+¡Bienvenido a mi perfil de GitHub!  
+Soy **Noe Abel Vargas López**, desarrollador de software apasionado por el desarrollo **Full Stack** y siempre listo para aprender algo nuevo 🚀.
 
-<!--
-**noeavl/noeavl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 🧠 Sobre mí
 
-Here are some ideas to get you started:
+- 👨‍💻 Desarrollador de software con enfoque **Full Stack**
+- 🌐 Me encanta crear soluciones completas, desde el backend robusto hasta una interfaz atractiva
+- 📚 Siempre en constante aprendizaje y mejorando habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Herramientas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,npm,vscode,github,figma,aws,androidstudio,bash,visualstudio,python,php,swift,cs,java,js,vue,angular,html,css,bootstrap,mysql,mongodb,postgres,laravel,adonis,windows,linux,ubuntu" />
+  </a>
+</p>
+
+## 📫 Contacto
+
+- 📧 **Correo:** [tuemail@example.com](mailto:tuemail@.com)
+- 💼 **LinkedIn:** [linkedin.com/in/tu_usuario](https://linkedin.com/in/tu_usuario)
+
+---
+
+¡Gracias por pasarte por aquí! 😄  
+_Siempre listo para el siguiente desafío..._
