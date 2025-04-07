@@ -17,7 +17,7 @@ I am **Noe Abel Vargas López**, a software developer passionate about **Full St
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,npm,vscode,github,figma,aws,androidstudio,bash,visualstudio,python,php,swift,cs,java,js,vue,angular,html,css,bootstrap,mysql,mongodb,postgres,laravel,adonis,windows,linux,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=git,docker,npm,vscode,github,figma,aws,androidstudio,bash,visualstudio,python,php,swift,cs,java,js,ts,vue,angular,html,css,bootstrap,mysql,mongodb,postgres,laravel,adonis,windows,linux,ubuntu" />
   </a>
 </p>
 
