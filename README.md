@@ -1,3 +1,5 @@
+<img src="Banner2.png" alt="Banner" style="width:100%;"/>
+
 # 👋 Hello, world!
 
 Welcome to my GitHub profile!  
