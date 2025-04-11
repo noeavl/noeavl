@@ -24,3 +24,9 @@ I am **Noé Abel Vargas López**, a software developer passionate about **Full S
 </p>
 
 ---
+## 📬 Contact Me
+
+If you'd like to connect, collaborate, or just say hi, feel free to reach out!
+
+- 📧 Email: **lopeznoe191119@gmail.com**
+
