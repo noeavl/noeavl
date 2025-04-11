@@ -3,7 +3,7 @@
 # 👋 Hello, world!
 
 Welcome to my GitHub profile!  
-I am **Noe Abel Vargas López**, a software developer passionate about **Full Stack** development and always ready to learn something new 🚀.
+I am **Noé Abel Vargas López**, a software developer passionate about **Full Stack** development and always ready to learn something new 🚀.
 
 ---
 
