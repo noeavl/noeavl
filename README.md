@@ -1,4 +1,4 @@
-<img src="Banner2.png" alt="Banner" style="width:100%;"/>
+<img src="Banner.png" alt="Banner" style="width:100%;"/>
 
 # Hello, world!
 
