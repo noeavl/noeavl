@@ -1,21 +1,21 @@
 <img src="Banner2.png" alt="Banner" style="width:100%;"/>
 
-# 👋 Hello, world!
+# Hello, world!
 
 Welcome to my GitHub profile!  
 I am **Noé Abel Vargas López**, a software developer passionate about **Full Stack** development and always ready to learn something new 🚀.
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 👨‍💻 Full Stack software developer
-- 🌐 I love building complete solutions, from robust backend systems to attractive user interfaces
-- 📚 Always learning and improving my skills
+- Full Stack software developer
+- I love building complete solutions, from robust backend systems to attractive user interfaces
+- Always learning and improving my skills
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
