@@ -2,15 +2,14 @@
 
 # Hello, world!
 
-Welcome to my GitHub profile!  
-I am **Noé Abel Vargas López**, a software engineer passionate about **Management projects**, development and always ready to learn something new.
+I am **Noé Abel Vargas López**, a software engineer passionate about **genuinely connecting with people** and always ready to learn something new.
 
 ---
 
 ## About Me
 
-- Full Stack software developer
-- I love building complete solutions, from robust backend systems to attractive user interfaces
+- Full Stack software engineer
+- I love building complete solutions
 - Always learning and improving my skills
 
 ---
