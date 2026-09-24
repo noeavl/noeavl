@@ -6,14 +6,6 @@ I am **Noé Abel Vargas López**, a software engineer passionate about **genuine
 
 ---
 
-## About Me
-
-- Full Stack software engineer
-- I love building complete solutions
-- Always learning and improving my skills
-
----
-
 ## Tools & Technologies
 
 <p align="center">
